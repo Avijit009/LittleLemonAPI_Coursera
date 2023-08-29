@@ -1,0 +1,23 @@
+Admin:
+	username: admin
+	password: lemon@789!
+	token:
+
+Manager:
+	username: adrian1
+	password: lemon@789!
+	token:
+
+
+Delivery_crew:
+	username: jhon1
+	password: lemon@789!
+	token:
+
+Customer: 
+	username: 
+	password: lemon@789!
+	token:
+
+
+
